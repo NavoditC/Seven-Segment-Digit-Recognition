@@ -1,2 +1,2 @@
 # Seven-Segment-Digit-Recognition
-This repository contains the code for recognizing decimal numerals from electronic devices having a seven-segment display by making use of computer vision techniques and image processing operations done as a part of the course - Computer Vision for Engineers at CMU in Spring 2022.
+This repository contains the code for the project "Recognition of Seven-Segment Digits using Computer Vision". It involves recognizing decimal numerals from electronic devices which make use of a seven-segment display by leveraging computer vision techniques and image processing operations. This project was done as a part of the course - Computer Vision for Engineers at CMU in Spring 2022.
