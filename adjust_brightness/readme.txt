@@ -9,6 +9,6 @@ Gamma correction is then performed to adjust the brightness such that uniformity
 
 Gamma correction was performed with a value of gamma equal to 2.0 for the sample image taken from the dataset. In case this problem is there on a particular day while taking the readings, the snippet of code could be placed in the original code in which images are read one after the other making use of a for loop.
 
-Note: G0110044.JPG is a sample image from the dataset when such an issue was encountered.
+Note: G0110044.JPG is a sample image from the dataset when such an issue was there.
 
 
