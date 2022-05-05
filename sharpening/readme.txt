@@ -1,0 +1,3 @@
+On same days it is likely that the digits in the images taken by the camera and blurred. There could be many possible reasons for this such as the use of a camera which does not have high resolution or the use of a camera without putting it to a good focus.
+
+In such a case, it is imperative that the digits be sharpened else there could there could be issues encountered in contour detection which is carried on later. Hence, the use of unsharp masking which emphasizes the edges while keeping the original distribution of pixel values in really useful in such a case. Convolving the image with a sharpening spatial filter is also beneficial to improve the image.
